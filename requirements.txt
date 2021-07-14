@@ -1,0 +1,6 @@
+wheel
+rasa==1.10.9
+pandas
+python-dotenv
+azure-storage-blob
+pillow
